@@ -21,7 +21,7 @@ F1 Monk is a powerful mobile companion for international students in the United 
   <table>
     <tr>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6916.PNG" width="200px" alt="Home Screen"/><br /><sub><b>Home Screen</b></sub></td>
-      <td align="center"><img src="f1 monkl app screenshot/IMG_6917.PNG" width="200px" alt="Info"/><br /><sub><b>Chat Assistant</b></sub></td>
+      <td align="center"><img src="f1 monkl app screenshot/IMG_6917.PNG" width="200px" alt="Info"/><br /><sub><b>Info</b></sub></td>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6918.PNG" width="200px" alt="Support"/><br /><sub><b>Timeline View</b></sub></td>
     </tr>
     <tr>
