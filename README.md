@@ -22,10 +22,10 @@ F1 Monk is a powerful mobile companion for international students in the United 
     <tr>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6916.PNG" width="200px" alt="Home Screen"/><br /><sub><b>Home Screen</b></sub></td>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6917.PNG" width="200px" alt="Info"/><br /><sub><b>Info</b></sub></td>
-      <td align="center"><img src="f1 monkl app screenshot/IMG_6918.PNG" width="200px" alt="Support"/><br /><sub><b>Timeline View</b></sub></td>
+      <td align="center"><img src="f1 monkl app screenshot/IMG_6918.PNG" width="200px" alt="Support"/><br /><sub><b>Help View</b></sub></td>
     </tr>
     <tr>
-      <td align="center"><img src="f1 monkl app screenshot/IMG_6920.PNG" width="200px" alt="Timeline View"/><br /><sub><b>Notifications</b></sub></td>
+      <td align="center"><img src="f1 monkl app screenshot/IMG_6920.PNG" width="200px" alt="Timeline View"/><br /><sub><b>Timeline</b></sub></td>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6921.PNG" width="200px" alt="Timeline View 2"/><br /><sub><b>User Profile</b></sub></td>
       <td align="center"><img src="f1 monkl app screenshot/IMG_6922.PNG" width="200px" alt="Notifications"/><br /><sub><b>Help Center</b></sub></td>
     </tr>
